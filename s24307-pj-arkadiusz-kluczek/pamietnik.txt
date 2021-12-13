@@ -1,5 +1,13 @@
-2021.10.22
-Drogi pamietniczku, na zajeciach nauczylem sie:
--virtual boxa
--znaczenie poszczegolnych komend
--githuba
+Drogi pamietniczku, na zajeciach nauczylem sie: 
+-Jak korzystać i dobrze skonfigurać wirtualną maszynę
+-Znaczenia i wykorzystywania poszczególnych komend
+-Czym jest ścieżka względna, a czym jest ścieżka bezwzględna
+-Poruszania się po katalogach
+-Tworzyć oraz usuwać katalogi
+-O procesach i strumieniach oraz ich przekierowywaniu 
+-Założyłem swoje konto na githubie oraz nauczyłem się jak sklonować repozytorium oraz jak dołączyć do niego
+-jak nadawać oraz zabierać uprawnienia użytkownikom, właścicielowi oraz grupie
+-Komend ctrl+c oraz ctrl+d, które ułatwiają zakończyć proces
+-Komendy ctrl+z która zatrzymuje proces i chowa go w tle
+-Komendy jobs która wyświetla procesy
+-Nauczyłem się jak korzystać z gita
